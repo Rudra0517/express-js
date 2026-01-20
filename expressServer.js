@@ -21,17 +21,17 @@ app.get("/jsonData", (req, res) => {
 
 //* post method
 app.post("/", (req, res) => {
-  res.send("POST request");
+  res.send("This is POST request");
 });
 
 //* put method
 app.put("/", (req, res) => {
-  res.send("PUT request");
+  res.send("This is PUT request");
 });
 
 //* delete method
 app.delete("/", (req, res) => {
-  res.send("DELETE request");
+  res.send("This is DELETE request");
 });
 
 app.listen(9090, () => {
