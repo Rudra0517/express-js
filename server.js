@@ -24,9 +24,4 @@
 //   })
 //   .listen(8080);
 
-/*
- ! Express JS is a frame work of node js
- !it reduce the boiler plate codes.
- !it have more inbuilt methods.
 
-*/
